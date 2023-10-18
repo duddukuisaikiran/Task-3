@@ -1,0 +1,20 @@
+#coldiv{
+    min-height: 70vh; /* Set to full viewport height */
+    margin:5% auto;
+    width:50%;
+    display:grid;
+    align-content: center;
+}
+button{
+    font-size:20px;
+    margin:2% auto;
+    min-width: 15%;
+    min-height: 10%;
+    background-color:green;
+    color:white;
+    border:none;
+}
+#listdiv{
+    display:flex;
+    flex-wrap:wrap;
+}
